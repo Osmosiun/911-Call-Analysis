@@ -12,6 +12,8 @@ def transcribe_audio_to_dataframe(folder_path, processed_audio_dir, log_dir):
     one at the sentence level and another at the word level. Both of these dataframes will be saved as CSV
     in processed_audio_dir.
 
+    Additionally, personal information redaction will be performed to remove sensitive data from the audio.
+
     The output files will have the same names as the input audio files but without their extensions.
 
     Args:
@@ -44,8 +46,19 @@ def transcribe_audio_to_dataframe(folder_path, processed_audio_dir, log_dir):
     df_word_level = pd.DataFrame(columns=['CallName', 'filenum', 'channel', 'startutt', 'stoputt', 'duration', 'content'])
 
     for idx, file_path in enumerate(file_paths):
+
         audio_url = file_path
-        config = aai.TranscriptionConfig(speaker_labels=True)
+
+        # Setting the Configuration of Models
+        # Speech redaction has also been added, allowing us to remove personal information from the audio.
+        config = aai.TranscriptionConfig(speaker_labels=True).set_redact_pii(
+            policies=[
+            aai.PIIRedactionPolicy.person_name,
+            aai.PIIRedactionPolicy.location,
+            aai.PIIRedactionPolicy.phone_number,
+            ],
+            substitution=aai.PIISubstitutionPolicy.hash
+            )
 
         logging.info(f'Transcribing file: {file_names[idx]}')
         transcript = aai.Transcriber().transcribe(audio_url, config)
