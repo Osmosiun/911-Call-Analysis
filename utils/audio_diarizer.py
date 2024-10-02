@@ -2,21 +2,22 @@ import assemblyai as aai
 import os
 import pandas as pd
 import logging
+import shutil  # To handle directory deletion
 
-def transcribe_audio_to_dataframe(folder_path, log_dir):
+aai.settings.api_key = "83df3680877f4567a3ada5b60fa61d1b"
+
+def transcribe_audio_to_dataframe(folder_path, processed_audio_dir, log_dir):
     """
     Transcribes audio files in the specified folder and generates two dataframes: 
-    one at the sentence level and another at the word level.
-    
+    one at the sentence level and another at the word level. Both of these dataframes will be saved as CSV
+    in processed_audio_dir.
+
     The output files will have the same names as the input audio files but without their extensions.
 
     Args:
         folder_path (str): The path to the folder containing audio files.
+        processed_audio_dir (str): The path to folder where processed audio files will be saved.
         log_dir (str): The directory where the log file will be saved.
-
-    Returns:
-        pd.DataFrame: DataFrame containing sentence-level transcription data.
-        pd.DataFrame: DataFrame containing word-level transcription data.
     """
     
     # Set up logging
@@ -25,7 +26,15 @@ def transcribe_audio_to_dataframe(folder_path, log_dir):
                         format='%(asctime)s - %(levelname)s - %(message)s')
     
     logging.info('Starting transcription process.')
+
+    # Delete the processed_audio_dir if it exists, then create it
+    if os.path.exists(processed_audio_dir):
+        logging.info(f'Deleting existing directory: {processed_audio_dir}')
+        shutil.rmtree(processed_audio_dir)
     
+    os.makedirs(processed_audio_dir)
+    logging.info(f'Created new directory: {processed_audio_dir}')
+
     file_names = os.listdir(folder_path)
     file_paths = [os.path.join(folder_path, file) for file in file_names]
 
@@ -71,5 +80,11 @@ def transcribe_audio_to_dataframe(folder_path, log_dir):
 
         file_num += 1
 
-    logging.info('Transcription process completed.')
-    return df_sentence_level, df_word_level
+    # Save the DataFrames to CSV files
+    sentence_csv_path = os.path.join(processed_audio_dir, 'sentence_level_transcription.csv')
+    word_csv_path = os.path.join(processed_audio_dir, 'word_level_transcription.csv')
+    
+    df_sentence_level.to_csv(sentence_csv_path, index=False)
+    df_word_level.to_csv(word_csv_path, index=False)
+
+    logging.info('Transcription process completed and dataframes saved.')

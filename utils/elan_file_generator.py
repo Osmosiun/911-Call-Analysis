@@ -9,7 +9,7 @@ def to_milliseconds(time_in_seconds):
     """Convert time from seconds to milliseconds."""
     return int(float(time_in_seconds) * 1000)
 
-def generate_elan_files(audio_folder_path, elan_file_folder_path,
+def generate_elan_files(audio_folder_path, elan_files_dir,
                         diarized_sentence_level_file_path, diarized_human_file_path=None,
                         diarized_word_level_file_path=None, log_dir=None):
     """
@@ -22,7 +22,7 @@ def generate_elan_files(audio_folder_path, elan_file_folder_path,
 
     Args:
         audio_folder_path (str): The path to the folder containing audio files.
-        elan_file_folder_path (str): The path where the generated ELAN files will be saved.
+        elan_files_dir (str): The path where the generated ELAN files will be saved.
         diarized_sentence_level_file_path (str): Path to the CSV file containing sentence-level transcription data.
         diarized_human_file_path (str, optional): Path to the CSV file containing human transcription data.
         diarized_word_level_file_path (str, optional): Path to the CSV file containing word-level transcription data.
@@ -46,9 +46,9 @@ def generate_elan_files(audio_folder_path, elan_file_folder_path,
         logging.info('Starting ELAN file generation process.')
 
     # Create ELAN file folder
-    if os.path.exists(elan_file_folder_path):
-        shutil.rmtree(elan_file_folder_path)
-    os.makedirs(elan_file_folder_path, exist_ok=True)
+    if os.path.exists(elan_files_dir):
+        shutil.rmtree(elan_files_dir)
+    os.makedirs(elan_files_dir, exist_ok=True)
 
     # Load transcription data
     df_sentence_level = pd.read_csv(diarized_sentence_level_file_path) if diarized_sentence_level_file_path else None
@@ -69,7 +69,7 @@ def generate_elan_files(audio_folder_path, elan_file_folder_path,
 
     for cur_audio_file_path in audio_files:
         cur_file_name = os.path.basename(cur_audio_file_path).split('.')[0]
-        output_elan_file_path = os.path.join(elan_file_folder_path, cur_file_name + '.eaf')
+        output_elan_file_path = os.path.join(elan_files_dir, cur_file_name + '.eaf')
 
         # Fetching the transcription for current audio
         df_sentence_level_cur_audio = df_sentence_level[df_sentence_level['CallName'] == cur_file_name].reset_index(drop=True) if df_sentence_level is not None else None
