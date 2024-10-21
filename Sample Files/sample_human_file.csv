@@ -1,0 +1,153 @@
+,CallName,channel,startutt,stoputt,content
+0,01-TUC-18040600,operator,1.88,2.86,"Tuscon police, [xxx]"
+1,01-TUC-18040600,operator,3.28,5.06,This is [xxx]
+2,01-TUC-18040600,caller,4.965,5.745,I need somebody here.
+3,01-TUC-18040600,operator,6.225,7.785,"Uh sir hold on one second, okay?"
+4,01-TUC-18040600,operator,7.875,19.305,"He saw a patient in the road on 8th and Park who is  bleeding profusely. This lady just came out screaming that everybody is going to die, and she's screaming at the man in the road, so we're going to hold off."
+5,01-TUC-18040600,operator,20.475,21.635,"Okay, hello?"
+6,01-TUC-18040600,caller,22.845,23.095,Hello?
+7,01-TUC-18040600,operator,23.46,23.88,Hi.
+8,01-TUC-18040600,operator,24.305,26.905,Does it look like he's been stabbed or shot or what's going on?
+9,01-TUC-18040600,caller,25.045,25.425,Hi.
+10,01-TUC-18040600,caller,28.055,38.38,"Honestly, I couldn't, I couldn't see anything um I tried using my flashlight I couldn't see anything. He's kinda like writhing in pain, but he's not responding to anything I say."
+11,01-TUC-18040600,operator,39.625,41.145,Okay how old do you think he is?
+12,01-TUC-18040600,caller,42.545,46.225,"Uh, I don't know, I would say probably in his 40's maybe, early 50's."
+13,01-TUC-18040600,operator,46.685,48.725,"Is he Black, White, Hispanic, Native American?"
+14,01-TUC-18040600,caller,49.895,52.035,Um I could not tell I think he's white.
+15,01-TUC-18040600,operator,52.635,54.885,"Okay, and where is he bleeding from?"
+16,01-TUC-18040600,caller,56.35,62.74,"Uh, again I, I'm not 100% sure. There's just, there's a lot of blood kinda all over him I can't tell where it would be. "
+17,01-TUC-18040600,operator,64.46,67.57,"Okay is the female Black, White, Hispanic, Native American?"
+18,01-TUC-18040600,caller,69.035,72.525,"Um, I'm gonna go with uh Hispanic or Black."
+19,01-TUC-18040600,operator,73.32,76.09,"Okay, how old do you think she is? 20's, 30's, 40's?"
+20,01-TUC-18040600,caller,77.395,84.805,"I honestly didn't get too I can't get too good of a look, she's kinda like talking to him, so like I don't know but I just know that this guy definetely needs help."
+21,01-TUC-18040600,operator,84.86,90.04,"Okay, we've already started the call. I just need as much information as possible. So is she with the male that's bleeding?"
+22,01-TUC-18040600,caller,90.91,92.46,What was that? Say that again.
+23,01-TUC-18040600,operator,92.635,97.735,"So the, you said the Hispanic or Black female is is with the guy that's that's bleeding in the street?"
+24,01-TUC-18040600,caller,98.87,104.225,Yeah but she was just screaming at him now. She's like talking to him but like he's like not moving.
+25,01-TUC-18040600,operator,104.47,106.55,Okay but she said everyone is going to die?
+26,01-TUC-18040600,caller,107.22,108.11,"Uh, yeah."
+27,01-TUC-18040600,operator,110.925,112.245,Do you see any weapons in her hands?
+28,01-TUC-18040600,caller,113.405,113.985,I do not.
+29,01-TUC-18040600,operator,115.635,117.295,Okay is there anybody else around?
+30,01-TUC-18040600,caller,118.095,120.57,Um not that I can see anywhere near.
+31,01-TUC-18040600,operator,121.165,123.015,"I I can't hear you, you gotta talk into the phone, what?"
+32,01-TUC-18040600,caller,123.88,126.86,"Um no not anywhere else that I can see, no."
+33,01-TUC-18040600,operator,126.93,129.31,Okay do you know what house they came out of?
+34,01-TUC-18040600,caller,130.15,143.04,"Um no actually I was just, I I deliver for Dominos. I was driving down 8th street and I just saw what you know what looked like a trash bag of dirt, but I stopped and it was some dude on the ground with a lot of blood around him."
+35,01-TUC-18040600,operator,143.69,145.79,Okay how much blood do you think is there?
+36,01-TUC-18040600,caller,146.975,150.235,"Uh, a good, a good amount more keep coming."
+37,01-TUC-18040600,operator,150.875,153.055,Okay but you can't tell where he's bleeding from?
+38,01-TUC-18040600,caller,153.765,157.815,No ma'am uh from what I'm hearing it sounds like he might have got hit by a car.
+39,01-TUC-18040600,operator,158.36,158.72,Okay.
+40,01-TUC-18040600,operator,164.52,165.09,What is your name?
+41,01-TUC-18040600,caller,166.225,175.97, My name is Joseph Ballester. Ballester is spelled B-A-L-L-E-S-T-E-R. Joseph - regular spelling. 
+42,01-TUC-18040600,operator,176.41,177.56,What is your telephone number?
+43,01-TUC-18040600,caller,178.95,184.42,Um my phone number is going to be 520-917-7124.
+44,01-TUC-18040600,operator,186.1,186.35,Okay.
+45,01-TUC-18040600,operator,187.625,188.435,Are you still there?
+46,01-TUC-18040600,caller,189.52,190.0,Yes ma'am.
+47,01-TUC-18040600,operator,191.295,192.885,Is that him moaning in the background?
+48,01-TUC-18040600,caller,194.27,196.55,"Uh no that is, that is her talking to him."
+49,01-TUC-18040600,operator,196.98,197.53,Okay.
+50,01-TUC-18040600,operator,198.795,201.34,Is he moving or can you tell if he's breathing?
+51,01-TUC-18040600,caller,202.965,206.895,"It looks like he's, it looks like he's breathing, but he is not moving."
+52,01-TUC-18040600,operator,207.14,207.75,Okay.
+53,01-TUC-18040600,operator,210.635,212.225,Is she doing anything to him?
+54,01-TUC-18040600,caller,213.47,215.2,I think she is praying.
+55,01-TUC-18040600,operator,216.355,216.755,Okay.
+56,01-TUC-18040600,operator,218.885,220.065,What kind of vehicle are you in?
+57,01-TUC-18040600,caller,221.095,225.205,I'm in a 2015 Nissan Altima. It's gray.
+58,01-TUC-18040600,operator,233.52,240.0,"Okay, if you can stay on the phone with me. If you feel like you're in danger, just let me know, but I'm gonna keep you on the phone until officers get there, okay?."
+59,01-TUC-18040600,caller,240.91,243.3,"Yes ma'am not a problem, I wasn't going to go anywhere."
+60,01-TUC-18040600,operator,243.865,246.445,Okay. Are they still in the middle of the street? Or where are they at?
+61,01-TUC-18040600,caller,247.28,253.11,"I mean they're, they're like right on the corner right off the sidewalk um on the corner of like Park and 8th."
+62,01-TUC-18040600,operator,256.23,259.04,"Okay, what corner are they on? East, west, north, south?"
+63,01-TUC-18040600,caller,260.41,266.315,"I would say, I think it's south uh let's see it'd be uh southwest, if I'm correct."
+64,01-TUC-18040600,operator,268.62,268.91,Okay.
+65,01-TUC-18040600,operator,271.075,272.335,How far away are you from them?
+66,01-TUC-18040600,caller,273.86,279.67,"I'm uh within 15 feet.I'm in my car though, I got my car shut so."
+67,01-TUC-18040600,operator,283.765,286.39,Okay. Has he been moving or anything else?
+68,01-TUC-18040600,caller,287.425,297.985,"Uh yes, he was he was moving, uh probably I'd say 5 minutes ago. And for the past 2 and a half, 3 minutes I haven't seen much movement from him. I'm kinda getting worried. "
+69,01-TUC-18040600,operator,298.335,305.175,"Okay well we've got um officers in route to you okay. But you couldn't tell if he was bleeding from his head, his legs?"
+70,01-TUC-18040600,caller,303.505,304.315,[xxx]
+71,01-TUC-18040600,operator,305.585,308.025,Could you tell where the blood was coming from?
+72,01-TUC-18040600,caller,308.765,319.155,"Honestly no, he's got, there's blood like pretty much all over his body, I can't see like any like you know wounds that are showing and blood coming out of them directly."
+73,01-TUC-18040600,operator,319.26,322.95,Okay but she can't she doesn't have anything in her hand. Is she still praying over him?
+74,01-TUC-18040600,caller,324.115,324.405,Yes.
+75,01-TUC-18040600,caller,326.96,329.1,But no I don't see anything else in her hand either.
+76,01-TUC-18040600,operator,329.22,329.53,Okay.
+77,01-TUC-18040600,operator,329.995,332.015,"Let me know when you see the officers, okay?"
+78,01-TUC-18040600,caller,333.475,337.035,"Alright, I think there's actually an officer coming up behind us."
+79,01-TUC-18040600,caller,339.965,341.835,But uh I'm not 100% sure.
+80,01-TUC-18040600,operator,342.4,342.85,Okay.
+81,01-TUC-18040600,caller,350.085,353.34,Okay yes ma'am I have an officer here.
+82,01-TUC-18040600,operator,354.25,356.03,"Okay, are they at the right place?"
+83,01-TUC-18040600,caller,357.08,357.54,Yes ma'am.
+84,01-TUC-18040600,operator,357.795,360.025,"Okay, alright just go ahead and talk to them."
+85,01-TUC-18040600,caller,361.14,361.91,Alright thank you.
+86,01-TUC-18040600,operator,361.955,362.845,You're welcome bye.
+4147,287-PHX-2018-00886871-01Track1,operator,2.47,4.53,"Phoenix 911, where is your emergency?"
+4148,287-PHX-2018-00886871-01Track1,caller,5.43,30.245,"Yes, how are you doing? Yes, I stay at Serena Villa, over here on 43rd and Dunlap. The address is [rdt]. Um, I just went outside of my apartment complex and uh, and I seen this man, he's bleeding a lot. He told me that he's been shot. Now his face is swollen, is swollen, and he's got blood everywhere. He's got blood all on him. He said he's been hit in the chest."
+4149,287-PHX-2018-00886871-01Track1,operator,33.12,35.41,You keep cutting out a little bit. What apartment number is he in front of?
+4150,287-PHX-2018-00886871-01Track1,caller,36.95,40.21,"No. We, we stay at Serena, um, Serena Village."
+4151,287-PHX-2018-00886871-01Track1,operator,40.48,43.91,"Okay, but what unit is he in front of? Where in the complex are we gonna find him?"
+4152,287-PHX-2018-00886871-01Track1,caller,44.92,48.38,"Uh, like [rdt]. We're 361."
+4153,287-PHX-2018-00886871-01Track1,operator,49.17,50.65,He's near [rdt]? What?
+4154,287-PHX-2018-00886871-01Track1,caller,51.65,53.21,[rdt].
+4155,287-PHX-2018-00886871-01Track1,operator,53.6,56.94,"Okay. Now, is the guy, are you still out with him? Or you're back inside?"
+4156,287-PHX-2018-00886871-01Track1,caller,54.12,54.77,[xxx].
+4157,287-PHX-2018-00886871-01Track1,caller,57.83,59.69,I'm back in town. We're moving complex.
+4158,287-PHX-2018-00886871-01Track1,operator,59.9,62.82,"Now, what'd the guy look like? Was he White, Black, Hispanic, Indian?"
+4159,287-PHX-2018-00886871-01Track1,caller,63.205,63.535,Yeah.
+4160,287-PHX-2018-00886871-01Track1,caller,65.815,66.155,Huh?
+4161,287-PHX-2018-00886871-01Track1,operator,66.65,69.88,"Hello? Sir, what did the guy look like? White, Black, Hispanic, Indian?"
+4162,287-PHX-2018-00886871-01Track1,caller,71.18,80.635,"Yeah. He, uh, I'm thinking. I guess he's Black, I don't know. It looks like somebody else woke up. He keeps repeating there's some people trying to kill him."
+4163,287-PHX-2018-00886871-01Track1,operator,76.705,77.345,I'm confused...
+4164,287-PHX-2018-00886871-01Track1,operator,81.48,83.48,"Alright, he said that there's people trying to kill him?"
+4165,287-PHX-2018-00886871-01Track1,caller,84.22,89.77,"Yes, that's what he was just yelling about to me. Yeah, I just seen the dude walk up, he just walked off. I don't know what's going on."
+4166,287-PHX-2018-00886871-01Track1,operator,91.78,93.56,"Okay. So, where'd he walk off to?"
+4167,287-PHX-2018-00886871-01Track1,caller,94.63,97.57,"No, the dude that walked up. The one that's still hurt, is still downstairs."
+4168,287-PHX-2018-00886871-01Track1,operator,98.06,98.58,Okay.
+4169,287-PHX-2018-00886871-01Track1,operator,99.04,102.88,"And so, you said the guy who's hurt is near apartment [rdt], right?"
+4170,287-PHX-2018-00886871-01Track1,caller,103.63,103.99,Yes.
+4171,287-PHX-2018-00886871-01Track1,operator,104.36,106.78,"Or, I'm sorry. [rdt] is where he's near?"
+4172,287-PHX-2018-00886871-01Track1,caller,107.81,112.55,"Yes, because ours, ours is [rdt] and he's still on the third floor there on the bottom."
+4173,287-PHX-2018-00886871-01Track1,operator,118.03,121.44,"Now, the guy who you saw with him, there for a minute, you think that's the one who hurt him?"
+4174,287-PHX-2018-00886871-01Track1,caller,122.38,136.09,"I do not know. I just went outside, going to my car, and I seen a lady holding onto the man that's bloody downstairs and then he, he's telling me to help him. She's telling me... I'm like, is he okay? She told me, yeah, everything's cool. I don't know what's going on."
+4175,287-PHX-2018-00886871-01Track1,operator,138.46,141.98,"So, she was saying, everything is fine, you don't need to worry, and he was the one saying to help?"
+4176,287-PHX-2018-00886871-01Track1,caller,142.875,143.215,Yes.
+4177,287-PHX-2018-00886871-01Track1,operator,150.32,153.69,"Now, um, the female that was with him, was she White, Black, Hispanic, Indian?"
+4178,287-PHX-2018-00886871-01Track1,caller,154.6,155.21,She's Black.
+4179,287-PHX-2018-00886871-01Track1,operator,155.81,157.15,And how old did she look?
+4180,287-PHX-2018-00886871-01Track1,caller,156.12,156.63,I'd guess.
+4181,287-PHX-2018-00886871-01Track1,caller,158.23,164.375,"Um, like maybe, older twenties? Uh, younger thirties?"
+4182,287-PHX-2018-00886871-01Track1,operator,163.53,164.26,Okay.
+4183,287-PHX-2018-00886871-01Track1,operator,165.02,167.15,"Now, do you remember what she had on, by chance?"
+4184,287-PHX-2018-00886871-01Track1,caller,168.06,174.69,"No. It was just, everything was a brief moment. I looked at the brief moment, like oh, and I still, still continued on my, on my way."
+4185,287-PHX-2018-00886871-01Track1,operator,175.03,178.4,"Alright, and then the Black male was also in his late twenties, you think?"
+4186,287-PHX-2018-00886871-01Track1,caller,175.72,176.57,You know? It was like...
+4187,287-PHX-2018-00886871-01Track1,caller,179.42,182.79,"Yeah. Yeah, like, like early uh, thirties."
+4188,287-PHX-2018-00886871-01Track1,operator,184.58,189.32,"Alright, and so where did it say that it, uh, that you would of, it looked like the blood was coming from?"
+4189,287-PHX-2018-00886871-01Track1,caller,190.65,198.19,"It was, he got blood coming from his face, his face is bleeding and swollen. Like, something isn't right. His face, his face is real swollen."
+4190,287-PHX-2018-00886871-01Track1,operator,194.69,195.65,His face is what?
+4191,287-PHX-2018-00886871-01Track1,caller,200.32,205.21,"No, he got blood coming, he got blood on his chest coming from his face, on his side... Everywhere."
+4192,287-PHX-2018-00886871-01Track1,operator,206.2,206.725,Okay.
+4193,287-PHX-2018-00886871-01Track1,operator,208.25,215.19,"And then you don't see him down there anymore? Can you look out your window and tell if there's, can you see him from your window? Or no, you'd have to go all the way downstairs?"
+4194,287-PHX-2018-00886871-01Track1,caller,210.665,211.405,"No, I'm inside."
+4195,287-PHX-2018-00886871-01Track1,caller,212.87,213.68,"No, I'm inside."
+4196,287-PHX-2018-00886871-01Track1,caller,215.84,219.75,"I'd have to go outside, go somewhere downstairs, and look over the fence just..."
+4197,287-PHX-2018-00886871-01Track1,operator,221.05,223.69,Do you happen to know where they live? Or you've never seen them before?
+4198,287-PHX-2018-00886871-01Track1,caller,224.72,228.85,"No. I've never seen him before, but I've seen her before. That's my first time seeing him."
+4199,287-PHX-2018-00886871-01Track1,operator,232.68,234.13,And you don't know where she lives at all?
+4200,287-PHX-2018-00886871-01Track1,caller,233.01,233.72,No. I didn't...
+4201,287-PHX-2018-00886871-01Track1,caller,235.34,239.24,"No. She's stayed here before, but I just don't know her apartment number."
+4202,287-PHX-2018-00886871-01Track1,operator,246.51,252.64,"Alright, and then, well, we'll come out. Yeah, we'll come out, and take a look, and see what's going on. Um, what was your name?"
+4203,287-PHX-2018-00886871-01Track1,caller,246.65,248.69,"And I don't know, I don't know what..."
+4204,287-PHX-2018-00886871-01Track1,caller,253.99,255.73,"How, how many is [rdt]?"
+4205,287-PHX-2018-00886871-01Track1,operator,256.18,257.985,Alright. What's a phone number for you?
+4206,287-PHX-2018-00886871-01Track1,caller,262.3,262.9,You said what?
+4207,287-PHX-2018-00886871-01Track1,operator,263.22,264.145,What's your phone number?
+4208,287-PHX-2018-00886871-01Track1,caller,265.96,270.8,"My phone number is, uh, [rdt]."
+4209,287-PHX-2018-00886871-01Track1,operator,272.18,280.31,"Alright. Well, I'll let you go since you can't see him anymore. If anything should change, or you should hear anything or get anything further, go ahead and give us a call back, though, with the updated information. Okay?"
+4210,287-PHX-2018-00886871-01Track1,caller,281.18,281.58,Okay.
+4211,287-PHX-2018-00886871-01Track1,operator,282.05,282.81,"Alright, thanks. Bye."
