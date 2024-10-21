@@ -2,3 +2,5 @@ pandas
 assemblyai
 pympi-ling
 openpyxl
+werpy
+pyannote.metrics
