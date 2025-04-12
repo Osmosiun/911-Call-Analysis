@@ -1,0 +1,18 @@
+2025-04-12 13:13:50,571 - INFO - Starting ELAN file generation process.
+2025-04-12 13:13:50,574 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:13:53,701 - INFO - Starting ELAN file generation process.
+2025-04-12 13:13:53,704 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:14:31,690 - INFO - Starting ELAN file generation process.
+2025-04-12 13:14:31,694 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:14:55,424 - INFO - Starting ELAN file generation process.
+2025-04-12 13:14:55,427 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:14:55,428 - INFO - Saved ELAN file: /Users/manavgarg/Downloads/911/Sample/elan_dir/call_004.eaf
+2025-04-12 13:14:55,428 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_005.wav
+2025-04-12 13:14:55,429 - INFO - Saved ELAN file: /Users/manavgarg/Downloads/911/Sample/elan_dir/call_005.eaf
+2025-04-12 13:14:55,429 - INFO - ELAN file generation process completed.
+2025-04-12 13:15:26,324 - INFO - Starting ELAN file generation process.
+2025-04-12 13:15:26,328 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:15:26,329 - INFO - Saved ELAN file: /Users/manavgarg/Downloads/911/Sample/elan_dir/call_004.eaf
+2025-04-12 13:15:26,330 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_005.wav
+2025-04-12 13:15:26,330 - INFO - Saved ELAN file: /Users/manavgarg/Downloads/911/Sample/elan_dir/call_005.eaf
+2025-04-12 13:15:26,330 - INFO - ELAN file generation process completed.

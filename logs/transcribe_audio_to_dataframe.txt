@@ -1,0 +1,170 @@
+2025-04-12 09:09:20,742 - INFO - Starting transcription process.
+2025-04-12 09:09:20,742 - INFO - Deleting existing directory: Sample Files/processed_audio
+2025-04-12 09:09:20,743 - INFO - Created new directory: Sample Files/processed_audio
+2025-04-12 09:09:20,745 - INFO - Transcribing file: .DS_Store
+2025-04-12 09:09:20,976 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 09:09:21,083 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 09:09:21,152 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/522f668a-d3c6-41cb-a9e7-3e3f1be2d015 "HTTP/1.1 200 OK"
+2025-04-12 09:09:24,226 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/522f668a-d3c6-41cb-a9e7-3e3f1be2d015 "HTTP/1.1 200 OK"
+2025-04-12 09:10:53,401 - INFO - Starting transcription process.
+2025-04-12 09:10:53,401 - INFO - Deleting existing directory: Sample Files/processed_audio
+2025-04-12 09:10:53,402 - INFO - Created new directory: Sample Files/processed_audio
+2025-04-12 09:10:53,404 - INFO - Transcribing file: call_779_CD.wav
+2025-04-12 09:10:54,467 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 09:10:54,582 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 09:10:54,653 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3289f620-1b10-4634-867e-a0fa041eeb08 "HTTP/1.1 200 OK"
+2025-04-12 09:10:57,746 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3289f620-1b10-4634-867e-a0fa041eeb08 "HTTP/1.1 200 OK"
+2025-04-12 09:12:02,993 - INFO - Starting transcription process.
+2025-04-12 09:12:02,993 - INFO - Deleting existing directory: Sample Files/processed_audio
+2025-04-12 09:12:02,994 - INFO - Created new directory: Sample Files/processed_audio
+2025-04-12 09:12:02,996 - INFO - Transcribing file: call_779_CD.wav
+2025-04-12 09:12:03,999 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 09:12:04,116 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 09:12:04,177 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/4508c1b3-5978-4dce-a9fa-0d362db40fc4 "HTTP/1.1 200 OK"
+2025-04-12 09:12:07,295 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/4508c1b3-5978-4dce-a9fa-0d362db40fc4 "HTTP/1.1 200 OK"
+2025-04-12 09:12:07,401 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 09:23:17,105 - INFO - Starting transcription process.
+2025-04-12 09:23:17,106 - INFO - Deleting existing directory: Sample Files/processed_audio
+2025-04-12 09:23:17,106 - INFO - Created new directory: Sample Files/processed_audio
+2025-04-12 09:23:17,109 - INFO - Transcribing file: call_790_CD.wav
+2025-04-12 09:23:17,895 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 09:23:18,012 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 09:23:18,069 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/476348fc-14d4-4b41-9765-b71bcf24172c "HTTP/1.1 200 OK"
+2025-04-12 09:23:21,141 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/476348fc-14d4-4b41-9765-b71bcf24172c "HTTP/1.1 200 OK"
+2025-04-12 09:23:24,674 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/476348fc-14d4-4b41-9765-b71bcf24172c "HTTP/1.1 200 OK"
+2025-04-12 09:23:24,787 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 09:24:09,601 - INFO - Starting transcription process.
+2025-04-12 09:24:09,602 - INFO - Deleting existing directory: Sample Files/processed_audio
+2025-04-12 09:24:09,603 - INFO - Created new directory: Sample Files/processed_audio
+2025-04-12 09:24:09,605 - INFO - Transcribing file: call_790_CD.wav
+2025-04-12 09:24:12,169 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 09:24:12,283 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 09:24:12,341 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/4445f31b-7d85-4b6f-81cb-f74ea0a6acd0 "HTTP/1.1 200 OK"
+2025-04-12 09:24:15,838 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/4445f31b-7d85-4b6f-81cb-f74ea0a6acd0 "HTTP/1.1 200 OK"
+2025-04-12 09:24:15,947 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 12:00:23,864 - INFO - Starting transcription process.
+2025-04-12 12:01:17,440 - INFO - Starting transcription process.
+2025-04-12 12:01:17,443 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:01:31,203 - INFO - Starting transcription process.
+2025-04-12 12:01:31,204 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:01:53,207 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:01:53,324 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:01:53,383 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/1b3b8d83-a293-411b-91ab-43070983bb9b "HTTP/1.1 200 OK"
+2025-04-12 12:01:56,455 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/1b3b8d83-a293-411b-91ab-43070983bb9b "HTTP/1.1 200 OK"
+2025-04-12 12:01:59,524 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/1b3b8d83-a293-411b-91ab-43070983bb9b "HTTP/1.1 200 OK"
+2025-04-12 12:02:02,782 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/1b3b8d83-a293-411b-91ab-43070983bb9b "HTTP/1.1 200 OK"
+2025-04-12 12:02:03,135 - INFO - Transcribing file: call_005.wav
+2025-04-12 12:02:07,450 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:02:07,718 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:02:07,778 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/56308f2d-2b17-431f-9ad0-e0a4903103dd "HTTP/1.1 200 OK"
+2025-04-12 12:02:10,848 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/56308f2d-2b17-431f-9ad0-e0a4903103dd "HTTP/1.1 200 OK"
+2025-04-12 12:02:13,992 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/56308f2d-2b17-431f-9ad0-e0a4903103dd "HTTP/1.1 200 OK"
+2025-04-12 12:02:14,115 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 12:02:49,983 - INFO - Starting transcription process.
+2025-04-12 12:02:49,985 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:11:14,343 - INFO - Starting transcription process.
+2025-04-12 12:11:14,344 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:11:23,030 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:11:23,182 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:11:23,242 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3ecc1ef5-b589-4103-a99c-4b65b8110cda "HTTP/1.1 200 OK"
+2025-04-12 12:11:26,322 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3ecc1ef5-b589-4103-a99c-4b65b8110cda "HTTP/1.1 200 OK"
+2025-04-12 12:11:29,401 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3ecc1ef5-b589-4103-a99c-4b65b8110cda "HTTP/1.1 200 OK"
+2025-04-12 12:11:32,683 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3ecc1ef5-b589-4103-a99c-4b65b8110cda "HTTP/1.1 200 OK"
+2025-04-12 12:11:33,053 - INFO - Transcribing file: call_005.wav
+2025-04-12 12:11:42,287 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:11:42,378 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:11:42,439 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/b29cb924-ecd5-4946-82b8-1f94f11bab1f "HTTP/1.1 200 OK"
+2025-04-12 12:11:45,555 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/b29cb924-ecd5-4946-82b8-1f94f11bab1f "HTTP/1.1 200 OK"
+2025-04-12 12:11:48,711 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/b29cb924-ecd5-4946-82b8-1f94f11bab1f "HTTP/1.1 200 OK"
+2025-04-12 12:11:48,840 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 12:55:48,955 - INFO - Starting transcription process.
+2025-04-12 12:55:48,957 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:56:19,418 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:56:19,518 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:56:19,577 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/db0707c1-e2fa-47c2-9f33-5eb8837a8a94 "HTTP/1.1 200 OK"
+2025-04-12 12:56:22,647 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/db0707c1-e2fa-47c2-9f33-5eb8837a8a94 "HTTP/1.1 200 OK"
+2025-04-12 12:56:25,728 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/db0707c1-e2fa-47c2-9f33-5eb8837a8a94 "HTTP/1.1 200 OK"
+2025-04-12 12:56:28,873 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/db0707c1-e2fa-47c2-9f33-5eb8837a8a94 "HTTP/1.1 200 OK"
+2025-04-12 12:56:29,228 - INFO - Transcribing file: call_005.wav
+2025-04-12 12:56:32,193 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:56:32,286 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:56:32,342 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/21596098-0823-4205-a576-9cd0b29890bf "HTTP/1.1 200 OK"
+2025-04-12 12:56:35,418 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/21596098-0823-4205-a576-9cd0b29890bf "HTTP/1.1 200 OK"
+2025-04-12 12:56:38,528 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/21596098-0823-4205-a576-9cd0b29890bf "HTTP/1.1 200 OK"
+2025-04-12 12:56:38,636 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 12:59:52,276 - INFO - Starting transcription process.
+2025-04-12 12:59:52,277 - INFO - Transcribing file: call_004.wav
+2025-04-12 12:59:58,249 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 12:59:58,373 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 12:59:58,431 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/da749505-8740-4958-83ad-20fc203b3853 "HTTP/1.1 200 OK"
+2025-04-12 13:00:01,502 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/da749505-8740-4958-83ad-20fc203b3853 "HTTP/1.1 200 OK"
+2025-04-12 13:00:04,571 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/da749505-8740-4958-83ad-20fc203b3853 "HTTP/1.1 200 OK"
+2025-04-12 13:00:07,869 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/da749505-8740-4958-83ad-20fc203b3853 "HTTP/1.1 200 OK"
+2025-04-12 13:00:08,186 - INFO - Transcribing file: call_005.wav
+2025-04-12 13:00:11,757 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:00:11,859 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:00:11,921 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/18a00d21-f4d0-439e-92a7-6ba12494557d "HTTP/1.1 200 OK"
+2025-04-12 13:00:15,093 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/18a00d21-f4d0-439e-92a7-6ba12494557d "HTTP/1.1 200 OK"
+2025-04-12 13:00:18,267 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/18a00d21-f4d0-439e-92a7-6ba12494557d "HTTP/1.1 200 OK"
+2025-04-12 13:00:18,387 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 13:00:18,404 - INFO - Created new directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:00:18,406 - INFO - Starting ELAN file generation process.
+2025-04-12 13:00:18,408 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:03:40,494 - INFO - Starting transcription process.
+2025-04-12 13:03:40,495 - INFO - Transcribing file: call_004.wav
+2025-04-12 13:03:46,466 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:03:46,580 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:03:46,635 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/d9be537c-f2eb-45cb-8862-f0c8851aacf8 "HTTP/1.1 200 OK"
+2025-04-12 13:03:49,708 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/d9be537c-f2eb-45cb-8862-f0c8851aacf8 "HTTP/1.1 200 OK"
+2025-04-12 13:03:52,798 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/d9be537c-f2eb-45cb-8862-f0c8851aacf8 "HTTP/1.1 200 OK"
+2025-04-12 13:03:56,023 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/d9be537c-f2eb-45cb-8862-f0c8851aacf8 "HTTP/1.1 200 OK"
+2025-04-12 13:03:56,346 - INFO - Transcribing file: call_005.wav
+2025-04-12 13:03:59,951 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:04:00,084 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:04:00,142 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/2ff8cbab-eec7-4682-a077-7b5542d546e5 "HTTP/1.1 200 OK"
+2025-04-12 13:04:03,209 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/2ff8cbab-eec7-4682-a077-7b5542d546e5 "HTTP/1.1 200 OK"
+2025-04-12 13:04:06,327 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/2ff8cbab-eec7-4682-a077-7b5542d546e5 "HTTP/1.1 200 OK"
+2025-04-12 13:04:06,445 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 13:04:06,461 - INFO - Deleting existing directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:04:06,462 - INFO - Created new directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:06:17,046 - INFO - Starting transcription process.
+2025-04-12 13:06:17,047 - INFO - Transcribing file: call_004.wav
+2025-04-12 13:06:22,973 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:06:23,088 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:06:23,150 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/ebb2f3ea-59dc-47f7-be0e-82cda74ce96a "HTTP/1.1 200 OK"
+2025-04-12 13:06:26,266 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/ebb2f3ea-59dc-47f7-be0e-82cda74ce96a "HTTP/1.1 200 OK"
+2025-04-12 13:06:29,419 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/ebb2f3ea-59dc-47f7-be0e-82cda74ce96a "HTTP/1.1 200 OK"
+2025-04-12 13:06:32,686 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/ebb2f3ea-59dc-47f7-be0e-82cda74ce96a "HTTP/1.1 200 OK"
+2025-04-12 13:06:33,052 - INFO - Transcribing file: call_005.wav
+2025-04-12 13:06:39,026 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:06:39,104 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:06:39,164 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/803be594-251c-40a8-913b-d3236fc8bc00 "HTTP/1.1 200 OK"
+2025-04-12 13:06:42,230 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/803be594-251c-40a8-913b-d3236fc8bc00 "HTTP/1.1 200 OK"
+2025-04-12 13:06:45,407 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/803be594-251c-40a8-913b-d3236fc8bc00 "HTTP/1.1 200 OK"
+2025-04-12 13:06:45,528 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 13:06:45,544 - INFO - Deleting existing directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:06:45,544 - INFO - Created new directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:12:18,766 - INFO - Starting transcription process.
+2025-04-12 13:12:18,767 - INFO - Transcribing file: call_004.wav
+2025-04-12 13:12:34,121 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:12:34,303 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:12:34,361 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/c482d815-3c8c-48d8-b74b-cdba3da10882 "HTTP/1.1 200 OK"
+2025-04-12 13:12:37,521 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/c482d815-3c8c-48d8-b74b-cdba3da10882 "HTTP/1.1 200 OK"
+2025-04-12 13:12:40,646 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/c482d815-3c8c-48d8-b74b-cdba3da10882 "HTTP/1.1 200 OK"
+2025-04-12 13:12:43,903 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/c482d815-3c8c-48d8-b74b-cdba3da10882 "HTTP/1.1 200 OK"
+2025-04-12 13:12:44,263 - INFO - Transcribing file: call_005.wav
+2025-04-12 13:12:47,608 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:12:47,718 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:12:47,782 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/8fcbd923-df56-4b30-98d4-e29200a5fccd "HTTP/1.1 200 OK"
+2025-04-12 13:12:50,856 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/8fcbd923-df56-4b30-98d4-e29200a5fccd "HTTP/1.1 200 OK"
+2025-04-12 13:12:53,972 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/8fcbd923-df56-4b30-98d4-e29200a5fccd "HTTP/1.1 200 OK"
+2025-04-12 13:12:54,091 - INFO - Transcription process completed and dataframes saved.
+2025-04-12 13:12:54,108 - INFO - Deleting existing directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:12:54,108 - INFO - Created new directory: /Users/manavgarg/Downloads/911/Sample/processed_audio
+2025-04-12 13:12:54,110 - INFO - Starting ELAN file generation process.
+2025-04-12 13:12:54,112 - INFO - Processing audio file: /Users/manavgarg/Downloads/911/Sample/call_004.wav
+2025-04-12 13:13:30,401 - INFO - Starting transcription process.
+2025-04-12 13:13:30,402 - INFO - Transcribing file: call_004.wav
+2025-04-12 13:13:35,326 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2025-04-12 13:13:35,483 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2025-04-12 13:13:35,542 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/dc2a4fe4-2be7-4a71-bf71-69c32d297962 "HTTP/1.1 200 OK"

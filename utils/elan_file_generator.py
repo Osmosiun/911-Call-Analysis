@@ -52,6 +52,8 @@ def generate_elan_files(audio_folder_path, elan_files_dir,
 
     # Load transcription data
     df_sentence_level = pd.read_csv(diarized_sentence_level_file_path) if diarized_sentence_level_file_path else None
+    print(df_sentence_level.isna().sum())
+    df_sentence_level['content'].fillna("",inplace=True)
     df_word_level = pd.read_csv(diarized_word_level_file_path) if diarized_word_level_file_path else None
     df_human = pd.read_csv(diarized_human_file_path) if diarized_human_file_path else None
 
@@ -68,6 +70,7 @@ def generate_elan_files(audio_folder_path, elan_files_dir,
     count = 0
 
     for cur_audio_file_path in audio_files:
+        if not cur_audio_file_path.endswith(".wav"): continue
         cur_file_name = os.path.basename(cur_audio_file_path).split('.')[0]
         output_elan_file_path = os.path.join(elan_files_dir, cur_file_name + '.eaf')
 
