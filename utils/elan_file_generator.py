@@ -76,6 +76,7 @@ def generate_elan_files(audio_folder_path, elan_files_dir,
 
         # Fetching the transcription for current audio
         df_sentence_level_cur_audio = df_sentence_level[df_sentence_level['CallName'] == cur_file_name].reset_index(drop=True) if df_sentence_level is not None else None
+        # print(df_sentence_level_cur_audio)
         df_word_level_cur_audio = df_word_level[df_word_level['CallName'] == cur_file_name].reset_index(drop=True) if df_word_level is not None else None
         df_human_cur_audio = df_human[df_human['CallName'] == cur_file_name].reset_index(drop=True) if df_human is not None else None
 

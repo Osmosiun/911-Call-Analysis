@@ -77,11 +77,8 @@ def transcribe_audio_to_dataframe(folder_path, log_dir):
             for utterance_word in utterance.words:
                 new_row = {
                     'CallName': call_name,
-                    'filenum': file_num,
-                    'channel': utterance_word.speaker,
                     'startutt': utterance_word.start,
                     'stoputt': utterance_word.end,
-                    'duration': utterance_word.end - utterance_word.start,
                     'content': utterance_word.text
                 }
 
